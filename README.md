@@ -3,7 +3,7 @@
 
 ## index.php
 * 定义系统的根路径：ROOT_PATH
-<code>define("ROOT_PATH", dirname(__FILE__));</code>
+`define("ROOT_PATH", dirname(__FILE__));`
 
 ## Html静态页面
 * $this->buildHtml("index",ROOT_PATH."/");
