@@ -7,7 +7,7 @@
 `define("ROOT_PATH", dirname(__FILE__));`
 
 ## Html静态页面
-* $this->buildHtml("index",ROOT_PATH."/");
+`$this->buildHtml("index",ROOT_PATH."/");`
 
 ## 常见函数
 * get_ip()  获取IP函数
