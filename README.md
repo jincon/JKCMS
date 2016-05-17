@@ -18,3 +18,4 @@
 * sendemail($to,$subject,$content)      //系统邮件发送函数
 * rand_string($len=6,$type='',$addChars=''         //产生随机字串
 * remove_xss($val)         //系统过滤xss函数
+* seo_keyword($content)     //seo关键词替换    //tpl echo seo_keyword("<p>我的美女啊</p>");
