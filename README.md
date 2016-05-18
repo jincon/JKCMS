@@ -1,7 +1,7 @@
 # JKCMS手册
 >JKCMS是本人做的一个简单的基于ThinkPHP的后台管理系统，注意只是后台管理系统，没有前台哦，前台需要自己写的
 
-[http://www.jincon.com/attachments/jkcms.png]
+![JKCMS](http://www.jincon.com/attachments/jkcms.png)
 
 ### index.php
 * 定义系统的根路径：ROOT_PATH
